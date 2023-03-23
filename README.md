@@ -13,3 +13,4 @@ urkimii@Macbook-Air elgato-game % python3 elgat.py
 pygame 2.3.0 (SDL 2.24.2, Python 3.11.2)
 Hello from the pygame community. https://www.pygame.org/contribute.html
 ```
+Use Left and Right Arrow Keys to Move
