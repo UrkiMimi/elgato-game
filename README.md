@@ -14,3 +14,6 @@ pygame 2.3.0 (SDL 2.24.2, Python 3.11.2)
 Hello from the pygame community. https://www.pygame.org/contribute.html
 ```
 Use Left and Right Arrow Keys to Move
+
+### Why is the code so sh-
+This was written for a high school assignment. Don't expect this to be pretty.
