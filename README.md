@@ -15,5 +15,5 @@ Hello from the pygame community. https://www.pygame.org/contribute.html
 ```
 Use Left and Right Arrow Keys to Move
 
-### Why is the code so sh-
+## Why is the code so sh-
 This was written for a high school assignment. Don't expect this to be pretty.
